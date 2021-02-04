@@ -70,8 +70,10 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+<!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Tianming Wang is a research engineer at Huawei. He received the Ph.D. degree from the Robotics Institute at University of Technology Sydney in 2020, where he was supervised by Prof. Dikai Liu and Dr. Wenjie Lu. Prior to that, he received the Bachelor degree in Electronic Engineering from Beijing Institute of Technology and Australian National University in 2016. He was an applied scientist intern in Amazon Web Services from Jun to Dec 2020.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+His research interests include robotic control, reinforcement learning, computer vision and automated machine learning. Currently, he focuses on behaviour prediction and decision making for autonomous driving vehicles.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
